@@ -8,13 +8,17 @@ I thrive at the intersection of LLMs, agentic systems, RAG, streaming analytics,
 • 	Local & Cloud-Native AI Platforms
 
     Optimized LLM runtimes, modular agent frameworks, and privacy-first AI frontends.
+    
 • 	RAG & Knowledge Systems
     
     Evidence-bound retrieval pipelines, deterministic JSON synthesis, and multi-source research agents.
+    
 • 	Distributed Data & Streaing Analytics
     
     High-throughput Spark pipelines, real-time event processing, and scalable data architectures.
+    
 • 	Developer Tools & AI Interfaces
+
     Natural, human-centric conversational interfaces with cinematic presence and micro-scene generation.
 
 ## 🧠 Technical Focus Areas
